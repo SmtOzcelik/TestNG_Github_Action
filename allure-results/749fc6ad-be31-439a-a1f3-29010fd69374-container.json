@@ -1,0 +1,1 @@
+{"uuid":"749fc6ad-be31-439a-a1f3-29010fd69374","name":"test.SesAcmaKapama.setUp","children":["01bad73b-5657-420d-a36b-b53e4612fbec"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1703104889519,"stop":1703104892626}],"afters":[],"start":1703104889519,"stop":1703104892626}
