@@ -29,6 +29,7 @@ public class SesAcmaKapama {
     @FindBy(css="div[class=\"rc-slider-handle rc-slider-handle-1\"][aria-valuemin=\"0\"]")public WebElement top1;
     @FindBy(css="div[class=\"rc-slider-handle rc-slider-handle-2\"][aria-valuemin=\"0\"]")public WebElement top2;
 
+
     @Test
     public void test() throws InterruptedException {
         actions.moveToElement(Wines).perform();
