@@ -32,7 +32,7 @@ jobs:
           restore-keys: ${{ runner.os }}-maven-
 
       - name: Run Tests
-        run: mvn -B test
+        run: mvn test
 
   docker:
     name: Build and Deploy Spring Boot App
